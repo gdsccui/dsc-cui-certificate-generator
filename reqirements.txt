@@ -1,6 +1,6 @@
 pandas
 numpy
+matplotlib
 pillow
 termcolor
 tqdm
-matplotlib

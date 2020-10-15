@@ -10,7 +10,7 @@ import shutil
 
 # Usually a .csv file but here i've used .xlsx file
 # Make sure to have 'Name' column in it
-file = pd.read_excel('event.csv')
+file = pd.read_excel('event.xlsx')
 
 # Uni name is hard coded for CUI only, you can uncomment below option for making it generic
 # uniName = input("Enter University Name: ")
