@@ -34,7 +34,7 @@ Extended the code from one of my DSC Fellows:
 
 #### Muhammad Hamza
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/m-hamzashakeel)
+)](https://www.linkedin.com/in/mhamzadev)
 
 #### Saad Hassan
 [![LinkedIn Link](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
